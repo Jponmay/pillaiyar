@@ -1,0 +1,67 @@
+body{
+	align-items: center;
+	color: white;
+	background: linear-gradient(250deg,#48bfc9,#c9487b);
+}
+.f1{
+	font-size: 20px;
+	padding: 10px;
+}
+.f1 hr{
+	background: black;
+	margin-top: 2px;
+	margin-bottom: 20px;
+	width: 120px;
+	height: 5px;
+}
+.f1 label{
+	display: block;
+}
+
+.fg{
+	font-size: 25px;
+	padding-bottom: 20px;
+}
+
+.f1 input[type="text"]{
+
+	padding: 15px 10px;
+	display: flex;
+	font-size: 14px;
+	border-radius: 20px;
+}
+.f1 input[type="number"]{
+	height: 20px;
+	padding: 15px 10px;
+	display: flex;
+	font-size: 14px;
+	border-radius: 20px;
+}
+
+.f1 textarea{
+	height: 50px;
+	padding: 15px 10px;
+	display: flex;
+	font-size: 14px;
+	border-radius: 20px;
+
+}
+.f1 select{
+    width: 200px;
+	height: 75px;
+	padding: 15px 10px;
+	display: flex;
+	font-size: 14px;
+	border-radius: 20px;
+}
+.jp input[type="submit"]{
+
+    padding: 15px 20px;
+	display: flex;
+	font-size: 16px;
+	border: none;
+	border-radius: 50px;
+    cursor: pointer;
+    background: linear-gradient(100deg,#2575cf,#b781d6);
+
+}
